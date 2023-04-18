@@ -36,7 +36,7 @@ public class BirdController : MonoBehaviour
 
         if (transform.position.y < -6.2 || transform.position.y > 6.2 )
         {
-            logic.gameOver();
+            logic.GameOver();
             birdIsAlive = false;
         }
 
@@ -44,7 +44,7 @@ public class BirdController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        logic.gameOver();
+        logic.GameOver();
         birdIsAlive = false;
     }
 }

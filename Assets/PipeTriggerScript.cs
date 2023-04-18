@@ -23,7 +23,7 @@ public class PipeTriggerScript : MonoBehaviour
     {
         if (collision.gameObject.layer == 3)
         {
-            logic.addScore(1);
+            logic.AddScore(1);
         }
         
     }
