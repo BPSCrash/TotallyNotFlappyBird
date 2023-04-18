@@ -1,6 +1,6 @@
 # :bird: Totally Not Flappy Bird
 
-A totally legally distinct game made in unity about a bird flapping and falling between two legally distinct pipes
+A totally legally distinct game made in unity about a bird flapping and falling between two legally distinct pipes.
 
 ## :keyboard: How to use
 
