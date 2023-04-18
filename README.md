@@ -11,4 +11,4 @@ A totally legally distinct game made in unity about a bird flapping and falling 
 ## :red_circle: Demo
 This was my first dabble with Unity to familiarize myself with the interface
 
-![](https://github.com/BPSCrash/GoalSetter/blob/main/iosDemo.gif)
+![](https://github.com/BPSCrash/TotallyNotFlappyBird/blob/main/Flappy%20bird%20screenshot.png)
