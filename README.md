@@ -1,5 +1,3 @@
-# TotallyNotFlappyBird
-
 # :bird: TotallyNotFlappyBird
 
 A totally legally distinct game made in unity
