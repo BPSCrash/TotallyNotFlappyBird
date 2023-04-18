@@ -1,6 +1,6 @@
 # :bird: TotallyNotFlappyBird
 
-A totally legally distinct game made in unity
+A totally legally distinct game made in unity about a bird flapping and falling between two legally distinct pipes
 
 ## :keyboard: How to use
 
